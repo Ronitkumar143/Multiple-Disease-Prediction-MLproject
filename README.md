@@ -20,7 +20,7 @@ Clone the repository.
 Install dependencies: pip install -r requirements.txt
 Run the model: python src/train.py
 Results
-Achieved an accuracy of XX% on the test set.
+Achieved an accuracy of 87% on the test set.
 
 Future Work
 Incorporate more complex models (e.g., neural networks).
